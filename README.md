@@ -26,6 +26,7 @@ PySpark was used to extract, transform, and load the two Amazon Reviews Datasour
 While for the Mobile Electronics Reviews there are 104,954 Non-Vine Reviews and 18 Vine Reviews.
 
 - Non-Vine PC Reviews
+
 +-----------+-------------+-----------+
 |star_rating|helpful_votes|total_votes|
 +-----------+-------------+-----------+
@@ -37,6 +38,7 @@ While for the Mobile Electronics Reviews there are 104,954 Non-Vine Reviews and 
 +-----------+-------------+-----------+
 
 - Vine PC Reviews
+
 +-----------+-------------+-----------+
 |star_rating|helpful_votes|total_votes|
 +-----------+-------------+-----------+
@@ -48,6 +50,7 @@ While for the Mobile Electronics Reviews there are 104,954 Non-Vine Reviews and 
 +-----------+-------------+-----------+
 
 - Non-Vine Mobile Electronics Reviews
+
 +-----------+-------------+-----------+
 |star_rating|helpful_votes|total_votes|
 +-----------+-------------+-----------+
@@ -59,6 +62,7 @@ While for the Mobile Electronics Reviews there are 104,954 Non-Vine Reviews and 
 +-----------+-------------+-----------+
 
 - Vine Mobile Electronics Reviews
+
 +-----------+-------------+-----------+
 |star_rating|helpful_votes|total_votes|
 +-----------+-------------+-----------+
@@ -73,6 +77,7 @@ While for the Mobile Electronics Reviews there are 104,954 Non-Vine Reviews and 
 - It seems that the Non-Vine reviews are much more important to the customers as they see it is much more helpful compared to Vine reviews.
 
 - Avg Votes per Star Ratings (Non-Vine PC Reviews)
+
 +-----------+------------------+------------------+
 |star_rating|avg(helpful_votes)|  avg(total_votes)|
 +-----------+------------------+------------------+
@@ -84,6 +89,7 @@ While for the Mobile Electronics Reviews there are 104,954 Non-Vine Reviews and 
 +-----------+------------------+------------------+
 
 - Avg Votes per Star Ratings (Vine PC Reviews)
+
 +-----------+------------------+------------------+
 |star_rating|avg(helpful_votes)|  avg(total_votes)|
 +-----------+------------------+------------------+
@@ -95,6 +101,7 @@ While for the Mobile Electronics Reviews there are 104,954 Non-Vine Reviews and 
 +-----------+------------------+------------------+
 
 - Avg Votes per Star Ratings (Non-Vine Mobile Electronics Reviews)
+
 +-----------+------------------+------------------+
 |star_rating|avg(helpful_votes)|  avg(total_votes)|
 +-----------+------------------+------------------+
@@ -106,6 +113,7 @@ While for the Mobile Electronics Reviews there are 104,954 Non-Vine Reviews and 
 +-----------+------------------+------------------+
 
 - Avg Votes per Star Ratings (Vine Mobile Electronics Reviews)
+
 +-----------+------------------+------------------+
 |star_rating|avg(helpful_votes)|  avg(total_votes)|
 +-----------+------------------+------------------+
